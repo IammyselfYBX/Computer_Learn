@@ -74,6 +74,8 @@
 
 ---
 ## 数据结构与算法
+[C语言经典算法案例](https://github.com/IammyselfYBX/Classical_algorithm_in_C)
+
 [算法(第4版)](https://github.com/IammyselfYBX/Algorithms-fourth_edition)
 
 [\[慕课网\]算法与数据结构](https://github.com/IammyselfYBX/Muke_Data_structures_and_algorithms)
