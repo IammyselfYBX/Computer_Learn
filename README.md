@@ -44,6 +44,10 @@
 
 [传播智课C/C++](https://github.com/IammyselfYBX/chuanbozhike_C_2014)
 
+[Linux C与C++ 一线开发实践](https://github.com/IammyselfYBX/First-line_development_practices_for_Linux_C_and_Cpp)
+
+
+
 ### Java
 [Java就该这么学](https://github.com/IammyselfYBX/This_is_how_Java_should_be_learned)
 
