@@ -1,4 +1,12 @@
 # Computer_Learn
+## 工具使用
+### vim
+[Mastering Vim-Build a software development environment with Vim and Neovim](https://github.com/IammyselfYBX/Mastering-Vim-Build-a-software-development-environment-with-Vim-and-Neovim)
+
+[Vim实用技巧](https://github.com/IammyselfYBX/Practical_vim)
+
+[Learn Vimscript the Hard Way](https://github.com/IammyselfYBX/Learn-Vimscript-the-Hard-Way)
+
 ## 编程基础
 [Head First Learn to Code](https://github.com/IammyselfYBX/Head_first_learn_to_code)
 
