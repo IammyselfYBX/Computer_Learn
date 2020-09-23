@@ -74,12 +74,19 @@
 [动手玩转Scratch2.0编程](https://github.com/IammyselfYBX/Learn_to_program_with_Scratch)
 
 ### 汇编
+#### Linux汇编
+##### GAS
+###### x86
 [基于linux系统的汇编语言程序设计](https://github.com/IammyselfYBX/Program_design_based_on_Linux_GAS)
 
 [《Professional Assembly Language》](https://github.com/IammyselfYBX/GAS-Professional-Assembly-Language)
 
 [深入理解程序设计使用Linux汇编语言](https://github.com/IammyselfYBX/GAS-Programming_from_the_Ground-Up)
 
+###### ARM
+[Modern Assembly Language Programming With the ARM Processor](https://github.com/IammyselfYBX/Modern-Assembly-Language-Programming-With-the-ARM-Processor)
+
+##### nasm
 [《汇编语言：基于LINUX 环境（第3版）》](https://github.com/IammyselfYBX/NASM-Assembly_Language_Step_by_step_with_linux)
 
 
