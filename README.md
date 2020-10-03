@@ -3,9 +3,9 @@
 ### 1.vim
 [Mastering Vim-Build a software development environment with Vim and Neovim](https://github.com/IammyselfYBX/Mastering-Vim-Build-a-software-development-environment-with-Vim-and-Neovim)
 
-[Vim实用技巧](https://github.com/IammyselfYBX/Practical_vim)
+[《Vim实用技巧》](https://github.com/IammyselfYBX/Practical_vim)
 
-[Learn Vimscript the Hard Way](https://github.com/IammyselfYBX/Learn-Vimscript-the-Hard-Way)
+[《Learn Vimscript the Hard Way》](https://github.com/IammyselfYBX/Learn-Vimscript-the-Hard-Way)
 
 ## 二、编程基础
 [Head First Learn to Code](https://github.com/IammyselfYBX/Head_first_learn_to_code)
@@ -48,12 +48,15 @@
 ### 3.C++
 #### 1)书籍
 ##### (1)Linux——GCC/G++
-[Linux C与C++ 一线开发实践](https://github.com/IammyselfYBX/First-line_development_practices_for_Linux_C_and_Cpp)
+[《Linux C与C++ 一线开发实践》朱文伟 李建英](https://github.com/IammyselfYBX/First-line_development_practices_for_Linux_C_and_Cpp)
 
 ##### (2)Windows下C++
 [谭浩强C++](https://github.com/IammyselfYBX/tanhaoqiang_C_plus_plus)
 
-[C++程序设计(第3版)谭浩强](https://github.com/IammyselfYBX/Cpp_tanhaoqiang)
+[《C++程序设计(第3版)》谭浩强](https://github.com/IammyselfYBX/Cpp_tanhaoqiang)
+
+[《C/C++程序设计教程》黄永峰 孙甲松](https://github.com/IammyselfYBX/C_Cpp_Programming)
+
 
 #### 2)视频
 [\[清华大学\]基于Linux的C++程序设计](https://github.com/IammyselfYBX/System_Programming-C-Linux)
