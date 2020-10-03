@@ -53,6 +53,8 @@
 ##### (2)Windows下C++
 [谭浩强C++](https://github.com/IammyselfYBX/tanhaoqiang_C_plus_plus)
 
+[C++程序设计(第3版)谭浩强](https://github.com/IammyselfYBX/Cpp_tanhaoqiang)
+
 #### 2)视频
 [\[清华大学\]基于Linux的C++程序设计](https://github.com/IammyselfYBX/System_Programming-C-Linux)
 
