@@ -50,6 +50,8 @@
 ##### (1)Linux——GCC/G++
 [《Linux C与C++ 一线开发实践》朱文伟 李建英](https://github.com/IammyselfYBX/First-line_development_practices_for_Linux_C_and_Cpp)
 
+[《Linux编程从入门到精通》宫虎波](https://github.com/IammyselfYBX/Linux-programming-from-entry-to-mastery_Gng_hu_bo)
+
 ##### (2)Windows下C++
 [谭浩强C++](https://github.com/IammyselfYBX/tanhaoqiang_C_plus_plus)
 
