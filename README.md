@@ -122,6 +122,8 @@
 
 [《妙趣横生的算法（C语言实现 第2版）》](https://github.com/IammyselfYBX/Interesting_algorithm_C-language-implementation)
 
+[《数据结构(C++语言版)(第3版)》邓俊辉](https://github.com/IammyselfYBX/Data_structures_and_algorithms_cpp_3)
+
 ### 2.视频
 [\[慕课网\]算法与数据结构](https://github.com/IammyselfYBX/Muke_Data_structures_and_algorithms)
 
