@@ -76,6 +76,10 @@
 [《Head First Java》](https://github.com/IammyselfYBX/Head-first-Java)
 
 
+#### 2)项目
+[尚硅谷Spring Cloud](https://github.com/IammyselfYBX/2018_SpringCloud)
+
+
 ### 5.Python
 [《笨方法学python3》](https://github.com/IammyselfYBX/Learn_Python3_the_hard_way)
 
