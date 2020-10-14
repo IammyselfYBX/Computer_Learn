@@ -18,13 +18,27 @@
 
 ## 三、编程语言
 ### 1.编译原理
-[\[慕课网\]大学计算机必修课新讲--编译原理+操作系统+图形学](https://github.com/IammyselfYBX/complier_OS_CG)
-
+#### 1)书籍
+##### (1)原理
 [《计算机程序的结构和解释》](https://github.com/IammyselfYBX/Learning-SICP)
 
+##### (2)工具使用
+[Lex与Yacc第二版](https://github.com/IammyselfYBX/Lex-Yacc)
+
+#### 2)视频
+[\[慕课网\]大学计算机必修课新讲--编译原理+操作系统+图形学](https://github.com/IammyselfYBX/complier_OS_CG)
+
+[\[HIT\]编译原理 (陈鄞)](https://github.com/IammyselfYBX/HIT_Compiler)
+
+[\[Stanford\]CS143 Compilers]()
+
+[\[西安交大\]《编译原理》（冯博琴）]()
+
+#### 3)实战
 [ybx complier](https://github.com/IammyselfYBX/ybx_compiler)
 
-[Lex与Yacc第二版](https://github.com/IammyselfYBX/Lex-Yacc)
+
+
 
 
 
