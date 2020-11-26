@@ -62,12 +62,23 @@
 
 [达学网Linux_C](https://github.com/IammyselfYBX/Daxue_linux)
 
+[传智播客C语言](https://github.com/IammyselfYBX/chuanbozhike_C_2014)
+
+##### 3)图形开发
+[GTK Glade](https://github.com/IammyselfYBX/GTK-glade)
+
+##### 4)经典案例
+[C语言经典算法案例](https://github.com/IammyselfYBX/Classical_algorithm_in_C)
+
+
 ### 3.C++
 #### 1)书籍
 ##### (1)Linux——GCC/G++
 [《Linux C与C++ 一线开发实践》朱文伟 李建英](https://github.com/IammyselfYBX/First-line_development_practices_for_Linux_C_and_Cpp)
 
 [《Linux编程从入门到精通》宫虎波](https://github.com/IammyselfYBX/Linux-programming-from-entry-to-mastery_Gng_hu_bo)
+
+[一站式学习C编程 .宋劲.宋劲杉](https://github.com/IammyselfYBX/One-stop_learning_C_programming)
 
 ##### (2)Windows下C++
 [谭浩强C++](https://github.com/IammyselfYBX/tanhaoqiang_C_plus_plus)
@@ -76,14 +87,25 @@
 
 [《C/C++程序设计教程》黄永峰 孙甲松](https://github.com/IammyselfYBX/C_Cpp_Programming)
 
+[\[飞儿精品教程\]猎豹网校Windows程序设计系列教程](https://github.com/IammyselfYBX/WIndows_Program_Design_1)
+
 
 #### 2)视频
+[播布课GCC编译器使用入门培训](https://github.com/IammyselfYBX/An-Introduction-to-GCC)
+
+[C语言程序设计视频教程 徐红波](https://github.com/IammyselfYBX/C-language-programming-video-tutorial)
+
 [\[清华大学\]基于Linux的C++程序设计](https://github.com/IammyselfYBX/System_Programming-C-Linux)
 
 [\[慕课网\]2020重学C++](https://github.com/IammyselfYBX/2020_Relearn_Cpp)
 
 [传播智课C/C++](https://github.com/IammyselfYBX/chuanbozhike_C_2014)
 
+[黑马C-C++](编程语言/C-C++/黑马C_C++/README.md)
+
+[轻松掌握C语言视频教程（会打字就能学会）](https://github.com/IammyselfYBX/Easy-to-master-C-language-video-tutorial)
+
+[飞机大战](https://github.com/IammyselfYBX/The_plane_war)
 
 
 ### 4.Java
@@ -94,7 +116,7 @@
 
 
 #### 2)项目
-[尚硅谷Spring Cloud](https://github.com/IammyselfYBX/2018_SpringCloud)
+[尚硅谷Spring Cloud](https://github.com/Iamhttps://github.com/IammyselfYBX/Make_atomic_bombsmyselfYBX/2018_SpringCloud)
 
 
 ### 5.Python
@@ -125,6 +147,13 @@
 [《Scratch少儿趣味编程2》](https://github.com/IammyselfYBX/Scratch_fun_programming_for_children_2)
 
 [动手玩转Scratch2.0编程](https://github.com/IammyselfYBX/Learn_to_program_with_Scratch)
+
+### 8.Lisp
+[On Lisp](https://github.com/IammyselfYBX/On_Lisp)
+
+
+### 9.Latex
+[\[万门大学\]LaTeX上这门课就足够了](https://github.com/IammyselfYBX/Wanmen_Latex)
 
 
 
@@ -170,10 +199,12 @@
 
 
 ### 2.内核
-[奔跑吧 Linux内核(入门篇)]()
+[奔跑吧 Linux内核(入门篇)](https://github.com/IammyselfYBX/Run_Linux_Kernal_Introductory_article)
 
 ### 3.系统编程
 [《Linux程序设计(第4版)》](https://github.com/IammyselfYBX/Beginning_linux_Programming_4th)
+
+[Linux程序设计(第4版) ](https://github.com/IammyselfYBX/Beginning_Linux_Programming)
 
 [Linux 编程](https://github.com/IammyselfYBX/Beginning_Linux_Programming)
 
@@ -207,6 +238,12 @@
 ### 网络应用开发
 [Linux Wechat](https://github.com/IammyselfYBX/linux_wechat)
 
+### 黑客
+[黑客工具](https://github.com/IammyselfYBX/hacker_tools)
+
+[《Linux Basics for Hackers》](https://github.com/IammyselfYBX/Linux_Basics_for_Hackers)
+
+
 ---
 ## 七、硬件
 ### 1.树莓派
@@ -215,6 +252,7 @@
 ### 2.自制硬件
 [自制CPU](https://github.com/IammyselfYBX/CPU_made_by_myself)
 
+[手把手教你设计cpu_RISC-V处理器](https://github.com/IammyselfYBX/Design_the_CPU_RISC-V_processor_by_hand)
 
 ---
 ## 八、软件工程
@@ -227,6 +265,8 @@
 [ACM 机器学习](https://github.com/IammyselfYBX/ACM_ML2020)
 
 [《图解深度学习》](https://github.com/IammyselfYBX/The_illustration_deep_learning)
+
+[《图解机器学习》](https://github.com/IammyselfYBX/The_illustration_machine_learning)
 
 [《图解OpenFlow》](https://github.com/IammyselfYBX/The_illustration_OpenFlow)
 
