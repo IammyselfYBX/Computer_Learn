@@ -7,6 +7,9 @@
 
 [《Learn Vimscript the Hard Way》](https://github.com/IammyselfYBX/Learn-Vimscript-the-Hard-Way)
 
+### 3.EndNote
+[EndNote 教程](https://github.com/IammyselfYBX/EndNote_tutoral)
+
 ## 二、编程基础
 [Head First Learn to Code](https://github.com/IammyselfYBX/Head_first_learn_to_code)
 
@@ -48,7 +51,7 @@
 
 [《Head first C》](https://github.com/IammyselfYBX/Head-first-C)
 
-[《笨方法学C语言》](https://github.com/IammyselfYBX/Learn_C_the_hard_way)
+[《笨方法学C语言》(扫描版)](https://github.com/IammyselfYBX/Learn_C_the_hard_way)
 
 [《笨方法学C语言》](https://github.com/IammyselfYBX/Learn_C_the_hard_way_electronic_edition)
 
@@ -174,6 +177,8 @@
 
 [Linux 编程](https://github.com/IammyselfYBX/Beginning_Linux_Programming)
 
+[《Linux编程从入门到精通》宫虎波 ](https://github.com/IammyselfYBX/Linux-programming-from-entry-to-mastery_Gng_hu_bo)
+
 ### 4.自制操作系统
 [《操作系统真相还原》](https://github.com/IammyselfYBX/The_reduction_of_OS)
 
@@ -190,6 +195,12 @@
 
 ---
 ## 六、网络
+### 网络基础
+[关于浏览器和网络的 20 项须知](https://github.com/IammyselfYBX/20-things-to-know-about-browsers-and-the-Web)
+
+### TCP/IP
+[《Linux内核源码剖析 TCPIP实现(上下册)》.(樊东东,莫澜) ](https://github.com/IammyselfYBX/Linux_TCP_IP_source)
+
 ### 网络安全
 [《Linux Basics for Hackers》](https://github.com/IammyselfYBX/Linux_Basics_for_Hackers)
 
