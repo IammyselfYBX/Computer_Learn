@@ -155,6 +155,27 @@
 ### 9.Latex
 [\[万门大学\]LaTeX上这门课就足够了](https://github.com/IammyselfYBX/Wanmen_Latex)
 
+[盖鹤麟3集经典（老课程）](https://www.bilibili.com/video/BV18k4y1z7P4)
+
+[math_into_LaTeX配套视频](https://www.bilibili.com/video/BV1iA411v7Xk)
+                                                                       
+[天才数学之LaTeX_Tutorials](https://www.bilibili.com/video/            BV1PC4y1Y7ZB)
+
+[ChinaTeX视频教程9集](https://www.bilibili.com/video/BV1jz4y1D73k)
+
+[蔡炎龙视频教程](https://www.bilibili.com/video/BV1FZ4y1u72a)
+
+[RobertTalbert12堂课](https://www.bilibili.com/video/BV1RK411p71Y)
+
+[knuth's lecture Seriers](https://www.bilibili.com/video/BV1fD4y1D7k6)
+> [Tex for Beginners](https://www.bilibili.com/video/BV1xp4y1x7ao)<br>
+> [The Internal Details of TeX82](https://www.bilibili.com/video/BV1JT4y1K7mq)<br>
+> [Advanced TeX arcana](https://www.bilibili.com/video/BV1JK411u7hX)<br>
+
+#### TikZ
+[Basic and Advanced Drawing_Graphing in LaTeX Using PGF_TikZ](https://github.com/IammyselfYBX/Basic-and-Advanced-Drawing_Graphing-in-LaTeX-Using-PGF_TikZ)
+
+[TikZ中文教程](https://www.bilibili.com/video/BV1z54y1q7PZ)
 
 
 ---
